@@ -15,6 +15,6 @@ print("guessing is pro sex")
 </a>
 ----
 
-Daddy: [EXCET](https://github.com/afourteenn)
+Daddy: [afourteen](https://github.com/afourteenn)
 
-Last Time I Nutted : 23/09/2020
+Last Time I Nutted : today
