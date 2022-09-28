@@ -11,7 +11,7 @@ print("guessing is pro sex")
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afourteenn&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7bety&layout=compact&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afourteenn&layout=compact&theme=gotham" />
 </a>
 ----
 <h3 align="left">Connect with me:</h3>
